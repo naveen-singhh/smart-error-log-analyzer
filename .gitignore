@@ -60,4 +60,5 @@ env/
 
 # Output files
 output/
-*.log
+output/*.log
+
